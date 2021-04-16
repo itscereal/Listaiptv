@@ -141,13 +141,57 @@ http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist.m3u8
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w25399469.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="Canais De TV",Via Morena
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/chunklist_w899099999.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="Canais De TV",TV Guará (Record News)
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w254357118.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dab5e88e8a6365ed0890db70b53b2764.png" group-title="Canais De TV",Tv Padre Cicero
+https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_w933446242.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/03ab0c563cc53333ffdcb0f06442955c.png" group-title="Canais De TV",TV TUPI HD
+https://stmv1.srvif.com/redetupi/redetupi/chunklist_w188038338.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Canais De TV",TV Séries 2
+https://stmv1.srvstm.com/tvserie2/tvserie2/chunklist_w115782442.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/97adec7fda9fe405dbfe80745d07ec9b.png" group-title="Canais De TV",Wham Tv
+https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w96621584.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bbf68ab6be6c58903b3f0737ce6eed5.jpg" group-title="Canais De TV",Tv Séries 5 
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w1239697594.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title="Canais De TV",All Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1637076529.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b624eb8a5f75f1b38618c537114e7172.jpg" group-title="Canais De TV",Tv Ibiapabana
+https://stmv1.duvoxtv.com.br/gamer/gamer/chunklist_w1737634313.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1334cc9d017c352142a824679947cb40.png" group-title="Canais De TV",Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w375305280.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c2f7367afcbeb90c88e3904aa148569.png" group-title="Canais De TV",Portal Cultura
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1449387682.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5ce59e5a4f52bbc5c6419fe5a8674447.png"  group-title="Canais De TV",Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1347090268.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ef1e165d6e3dc7cb5fe6fdc193b9ef04.png" group-title="Canais De TV",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee32135a0ae4307048d3b24d0891738f.png" group-title="Canais De TV",Tela Viva Tv
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w34609039.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f36b32941e0d5c63c4771dcea3fdae5.png" group-title="Canais De TV",Top Tv Paraná
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1866489819.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f78ba83a1010b3d8fc8c98ca564aa7bf.png" group-title="Canais De TV",Tv Jornada Nas Estrelas
+https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w137652465.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="Canais De TV",TV Diário Do Sertão
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w278251588.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4a5e9c9d0cb42ba42262b6aa9edba2de.png" group-title="Canais De TV",Premier TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d0ffc1a2f1e26558ce7aa73679441c8.jpg" group-title="Canais De TV",Tv Camara Salvador
+https://596639ebdd89b.streamlock.net/8114/8114/chunklist_w287122639.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cd9b9788829bcef4a6692b4ff86cf3a.png" group-title="Canais De TV",RTV Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/72171b6c814a0b231412516702c9b3d4.png" group-title="Canais De TV",Tv O Povo
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w848707323.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/13c521cefbb5fde40d549a9d66891530.png" group-title="Canais De TV",Web Tv Agua Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1061098688.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="Canais De TV",TV VM
+https://5e36c064a2f6a.streamlock.net:1936/8296/8296/chunklist_w239758649.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40310039540944a5c70fa514a028a399.jpg" group-title="Canais De TV",Rede Tv Mais
+https://novo.bitstreaming.info:1936/8010/8010/chunklist_w1678282104.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9041c4d45dad6a26191ecba9fd2edf48.png" group-title="Canais De TV",TV Mega Cine
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w369104161.m3u8
+#EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7acc2ed352b08126b259ca9f48c25fa.jpg" group-title="Canais De TV",Cine Trianon TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1207926957.m3u8
+#EXTINF:- tvg-logo="https://3.bp.blogspot.com/-52jTrLvesY8/WdPagt6faoI/AAAAAAAALHs/CB1A1Mzwc4AHqqNoWqMfwffa1o4dYhRSgCLcBGAs/s1600/chips.jpg" group-title="Canais De TV",TV CHIPS
+https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1115662053.m3u8
+#EXTINF:- tvg-logo="
 
