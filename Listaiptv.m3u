@@ -66,11 +66,11 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40b8a2a4154e2c07fc3585c1ca1aeee5.png" group-title="Canais De TV",Rede TV RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/621257bf486e5ad3003742d01adfdfd6.png" group-title="Canais De TV",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2026183644_b2499001_DVR.m3u8
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w598288654_b2636937_DVR.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title="Canais De TV",LatinaSat TV
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1943366596.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f323b96a01b3fc9a0c5902bd616213b.png" group-title="Canais De TV",Rede Gênesis de TV
-https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega02/live/23971225/1618437299024/plain/uhs/3/chunk_1618465332_88832de306.m4v
+https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega02/live/23971225/1618437299024/plain/uhs/5/chunk_1618466140_a2627fed68.m4v
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e7e289ab5c66e67ad623c5a1bec9f75.png" group-title="Canais De TV",Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1319139940.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c7847afd46b2ecb00a14198a16ba142.png" group-title="Canais De TV",TVE Bahia
@@ -112,7 +112,7 @@ https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist_w1098482764.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="Canais De TV",Central Tv
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w711178493.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a7bcc803390b08473d347197729c75b1.jpg" group-title="Canais De TV",Rede Super
-https://playback2.akamaized.net/streams/10205943_3429501_lsin4tjpm1ygsoph618_1/exp=1618665002~acl=%2f*~data=hdntl~hmac=25eb52d20c456caa948840459954a8ebaae8a4b2887fc2832e103943b55d5f21/media/10205943_3429501_lsin4tjpm1ygsoph618_1@678000p.m3u8
+https://playback2.akamaized.net/streams/10205943_3429501_lsin4tjpm1ygsoph618_1/exp=1618668014~acl=%2f*~data=hdntl~hmac=12fce3e66f7021e036c70b53c2105ac8928d8cdf087e1baa0dd2feed97dad717/media/10205943_3429501_lsin4tjpm1ygsoph618_1@678000p.m3u8?dw=14400&ts=1618581600
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Canais De TV",Web Tv Cine
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w599135410.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f42f76db35b114255012a25cbe113942.png" group-title="Canais De TV",Tv Nordeste
