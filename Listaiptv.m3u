@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Canais De TV",TV Cultura
 https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w1625647096.m3u8
@@ -189,3 +190,6 @@ https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1115662053.m3u8
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w749788162.m3u8
 #EXTINF:- tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Canais De TV",Naruto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=86794686-5222-43d5-87e4-6322b63c8b57&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=38afc7dc-9fb1-11eb-b4a3-0242ac110002&advertisingId=&deviceLat=-23.6376&deviceLon=-46.6295&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:- tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Canais De TV",Anime TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=86794686-5222-43d5-87e4-6322b63c8b57&deviceVersion=89.0.4389.128&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Chrome&sid=a12bb91a-9fb2-11eb-b976-0242ac110002&advertisingId=&deviceLat=-23.6376&deviceLon=-46.6295&deviceDNT=0&deviceModel=web&userId=&appName=web
