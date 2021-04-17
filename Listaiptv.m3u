@@ -188,7 +188,5 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1207926957.m3u8
 https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1115662053.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f7fbd736a48362985a0b4ce3f8c3891d.png" group-title="Canais De TV",Wham TV Classic
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w749788162.m3u8
-#EXTINF:- tvg-logo="https://canaismax.com/img/canais/3354389ede7590b69b90f29aa3bf4647.png" group-title="Canais De TV",Multishow
-https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8?md5=GRVL5fMdlyfCeLV3fkbk3A&expires=1618725718
-#EXTINF:- tvg-logo="https://canaismax.com/img/canais/3354389ede7590b69b90f29aa3bf4647.png" group-title="Canais De TV",Multishow 2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8
+#EXTINF:- tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="Canais De TV",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w224095535.m3u8
