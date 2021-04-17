@@ -188,5 +188,7 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1207926957.m3u8
 https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1115662053.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f7fbd736a48362985a0b4ce3f8c3891d.png" group-title="Canais De TV",Wham TV Classic
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w749788162.m3u8
-#EXTINF:- tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh59rzygTIiuFFhmjhVWlEVgl4lZ2pYxTJPoiUR=s48-c-k-c0x00ffffff-no-rj" group-title="Canais De TV",SBT
-https://r3---sn-8p2cg-bg0e.googlevideo.com/videoplayback?expire=1618710264&ei=mDp7YKadLZO8wgSZ-4-wDQ&ip=168.232.163.165&id=ABVQXgr2LW4.2&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-8p2cg-bg0e%2Csn-bg07dn6l&ms=lva%2Crdu&mv=m&mvi=3&pl=24&gcr=br&initcwndbps=980000&vprv=1&live=1&hang=1&noclen=1&svpuc=1&mime=video%2Fmp4&ns=u5FOxJLjlVLqXANCa7LzYeIF&gir=yes&mt=1618688419&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&n=u5x3g2yqhHOujA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgTlvOgIe1xuHQWm7h81wFKH--LQFmN_CD7xSbHl4uvDECIQCna1NroynjGh40OtN4o4cqw2JPzbgzWrI6GR5Q-n-Sgg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgY4N1mtkeh-dyF7iujzpNDZ1VI6xnIEqATM0emgYy67gCICVI8uIOmjFj9Qtu9xSj1j1Pir2zqbrTZKg3llAy7aNS&alr=yes&cpn=kbBeTbaRGYtnk9Xy&cver=2.20210415.07.00&sq=3070889&rn=9&rbuf=16692
+#EXTINF:- tvg-logo="https://canaismax.com/img/canais/3354389ede7590b69b90f29aa3bf4647.png" group-title="Canais De TV",Multishow
+https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8?md5=GRVL5fMdlyfCeLV3fkbk3A&expires=1618725718
+#EXTINF:- tvg-logo="https://canaismax.com/img/canais/3354389ede7590b69b90f29aa3bf4647.png" group-title="Canais De TV",Multishow 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8
