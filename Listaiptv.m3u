@@ -189,9 +189,8 @@ https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1115662053.m3u8
 #EXTINF:- tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f7fbd736a48362985a0b4ce3f8c3891d.png" group-title="Canais De TV",Wham TV Classic
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w749788162.m3u8
 #EXTINF:- tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="Canais De TV",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w224095535.m3u8
-#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais De TV",History
-http://207.154.236.113/loadbalance/h2-hd/chunks.m3u8?pxAuth=pPwlkNjKPpfXZgbN3qsSLU3CXFVGbhkK
+https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qSrKeoA3BCTYbSLqxDewTM)/dm/3/x80oqlg/d/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
+
 
 
 
