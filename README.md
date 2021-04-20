@@ -191,7 +191,7 @@ https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w749788162.m3u8
 #EXTINF:- tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="Canais De TV",Band
 https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qSrKeoA3BCTYbSLqxDewTM)/dm/3/x80oqlg/d/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
 #EXTINF:- tvg-logo="https://www.google.com/url?sa=t&source=web&rct=j&url=https://logodownload.org/history-channel-logo/&ved=2ahUKEwiTl7mj_YjwAhVIFLkGHaGfAQAQqa4BMCB6BAgiEAU&usg=AOvVaw1Gx81cQ4G_hsGMVGaelUAU" group-title="Canais De TV",History
-https://185.132.133.136:3333sunshine/5TJQRyYuyuS2Vhf8WgaK1vfwOIXVTPEncCnoe2roM3eTCRDjxNQyOHRdlxhljb_OpQbBYqjTjGN-oiz1VF-ejW5x8va3XVN0JtcUNsbAejAJlB9mccjHRidLUIIUdsDDJm73MGMrDsDY50dLRdJYhCoAwQHNjA_kLb8jcG1BXBq_YIyM67DiOySmWvrU0VBk/v.ts
+http://185.132.133.136:3333sunshine/5TJQRyYuyuS2Vhf8WgaK1vfwOIXVTPEncCnoe2roM3eTCRDjxNQyOHRdlxhljb_OpQbBYqjTjGN-oiz1VF-ejW5x8va3XVN0JtcUNsbAejAJlB9mccjHRidLUIIUdsDDJm73MGMrDsDY50dLRdJYhCoAwQHNjA_kLb8jcG1BXBq_YIyM67DiOySmWvrU0VBk/v.ts
 
 
 
